@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello World!👋
+
+![Dava Ghifary](img/github-header-banner.png)
+
+#### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react)](https://skillicons.dev)
+
+###### Connect With Me
+
+![https://www.instagram.com/davaghfry/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **DavaGhifary/DavaGhifary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
